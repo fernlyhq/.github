@@ -12,11 +12,11 @@ We start with real problems: understanding how people work, where things get dif
 
 ## What we build
 
-- **Software and SaaS** — focused products, platforms and applications.
-- **Automation and integrations** — connecting systems and reducing repetitive work.
-- **Connected hardware and IoT** — bringing software into the physical world.
-- **Manufacturing and operational technology** — improving how work gets done.
-- **Prototypes and experiments** — testing an idea before committing to a larger build.
+- **Software and SaaS** : focused products, platforms and applications.
+- **Automation and integrations** : connecting systems and reducing repetitive work.
+- **Connected hardware and IoT** : bringing software into the physical world.
+- **Manufacturing and operational technology** : improving how work gets done.
+- **Prototypes and experiments** : testing an idea before committing to a larger build.
 
 The solution might be software, hardware, a combination of both or a simpler way of doing things. We choose what fits the need.
 
